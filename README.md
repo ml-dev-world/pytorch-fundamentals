@@ -12,11 +12,11 @@ This repository is inspired from the amazing [Paperspace - PyTorch 101 Tutorial 
 
 ## Table of Contents
 
-1. [Understanding Computation Graphs and Autograd](./01_Building_Your_First_Neural_Network.ipynb) - Introduction to neural networks.
-2. [Building Neural Networks With PyTorch](./02_Pixels_To_Prediction_Using_ConvNet.ipynb) - Building Convolutional Neural Networks.
-3. [Going Deeper with PyTorch](./03_Dynamic_Progress_Bar_Using_tqdm.ipynb) - Model initialization strategies and bug fixes.
-4. [Memory Management and Using Multiple GPUs](./03_Dynamic_Progress_Bar_Using_tqdm.ipynb) - Model initialization strategies and bug fixes.
-5. [Understanding Hooks](./03_Dynamic_Progress_Bar_Using_tqdm.ipynb) - Model initialization strategies and bug fixes.
+1. [Understanding Computation Graphs and Autograd](./01_Building_Your_First_Neural_Network.ipynb) - Computation graphs, autograd basics: Fundamentals of computation graphs and autograd.
+2. [Building Neural Networks With PyTorch](./02_Pixels_To_Prediction_Using_ConvNet.ipynb) - Construct CNNs with PyTorch: Step-by-step tutorial for building Convolutional Neural Networks.
+3. [Going Deeper with PyTorch](./03_Dynamic_Progress_Bar_Using_tqdm.ipynb) - Advanced PyTorch: Initialization, bug fixing: Delve into model initialization strategies and troubleshooting common issues.
+4. [Memory Management and Using Multiple GPUs](./03_Dynamic_Progress_Bar_Using_tqdm.ipynb) - Memory management, multi-GPU usage: Learn techniques to optimize memory and utilize multiple GPUs efficiently.
+5. [Understanding Hooks](./03_Dynamic_Progress_Bar_Using_tqdm.ipynb) - Utilize hooks for model enhancement: Gain insights into using PyTorch hooks to customize and debug neural network models.
 
 ## Getting Started
 
