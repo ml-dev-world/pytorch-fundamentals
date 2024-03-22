@@ -9,17 +9,12 @@
 
 <br>
 
-
-
-[![License](https://img.shields.io/github/license/ml-dev-world/pytorch-fundamentals.svg)](https://opensource.org/licenses/Apache-2.0)
-&nbsp;&nbsp;&nbsp;
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/ml-dev-world/pytorch-fundamentals.svg)](https://github.com/ml-dev-world/pytorch-fundamentals/pulls)
 &nbsp;&nbsp;&nbsp;
 [![GitHub issues](https://img.shields.io/github/issues/ml-dev-world/pytorch-fundamentals.svg)](https://github.com/ml-dev-world/pytorch-fundamentals/issues)
 &nbsp;&nbsp;&nbsp;
 [![GitHub contributors](https://img.shields.io/github/contributors/ml-dev-world/pytorch-fundamentals.svg)](https://github.com/ml-dev-world/pytorch-fundamentals/graphs/contributors)
 &nbsp;&nbsp;&nbsp;
-[![GitHub language](https://img.shields.io/github/languages/top/ml-dev-world/pytorch-fundamentals.svg)](https://github.com/ml-dev-world/pytorch-fundamentals)
 
 </div>
 
