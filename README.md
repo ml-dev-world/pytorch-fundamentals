@@ -7,13 +7,20 @@
 Master PyTorch fundamentals with practical examples and tutorials. Beginner to advanced concepts covered concisely.
 
 ## Reference
-This repository is inspired from the amazing [Paperspace - PyTorch 101 Tutorial Series](https://github.com/Paperspace/PyTorch-101-Tutorial-Series).
+This repository is heavily inspired from the amazing [Paperspace - PyTorch 101 Tutorial Series](https://github.com/Paperspace/PyTorch-101-Tutorial-Series) and [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch?tab=readme-ov-file#modules).
 
 
 ## Table of Contents
 
 1. [Pytorch Basics](./01_Building_Your_First_Neural_Network.ipynb) - Introduction to tensors.
 2. [From Automatic Differentiation to Curve Fitting](./02_Pixels_To_Prediction_Using_ConvNet.ipynb) - Understanding behind the scenes of autograd mechanics.
+3. [Encapsulate your model with Modules](./03_Encapsulate_your_model_with_Modules.ipynb)
+4. [Broadcasting the good and the ugly](./04_Broadcasting_the_good_and_the_ugly.ipynb)
+5. [Take advantage of the overloaded operators](./05_Take_advantage_of_the_overloaded_operators.ipynb)
+6. [Optimizing runtime with TorchScript](./06_Optimizing_runtime_with_TorchScript.ipynb)
+7. [Building efficient custom data loaders](./07_Building_efficient_custom_data_loaders.ipynb)
+8. [Numerical stability in PyTorch](./08_Numerical_stability_with_PyTorch.ipynb)
+9. [Faster training with automatic mixed precision](./09_Faster_training_with_mixed_precision.ipynb)
 
 ## Getting Started
 
