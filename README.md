@@ -12,8 +12,8 @@ This repository is heavily inspired from the amazing [Paperspace - PyTorch 101 T
 
 ## Table of Contents
 
-1. [Pytorch Basics](./01_Building_Your_First_Neural_Network.ipynb) - Introduction to tensors.
-2. [From Automatic Differentiation to Curve Fitting](./02_Pixels_To_Prediction_Using_ConvNet.ipynb) - Understanding behind the scenes of autograd mechanics.
+1. [Pytorch Basics](./01_Building_Your_First_Neural_Network.ipynb)
+2. [From Automatic Differentiation to Curve Fitting](./02_Pixels_To_Prediction_Using_ConvNet.ipynb)
 3. [Encapsulate your model with Modules](./03_Encapsulate_your_model_with_Modules.ipynb)
 4. [Broadcasting the good and the ugly](./04_Broadcasting_the_good_and_the_ugly.ipynb)
 5. [Take advantage of the overloaded operators](./05_Take_advantage_of_the_overloaded_operators.ipynb)
