@@ -6,15 +6,11 @@
 &nbsp;&nbsp;&nbsp;
 [![GitHub forks](https://img.shields.io/github/forks/ml-dev-world/pytorch-fundamentals.svg?style=social)](https://github.com/ml-dev-world/pytorch-fundamentals/network/members)
 &nbsp;&nbsp;&nbsp;
-
-<br>
-
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/ml-dev-world/pytorch-fundamentals.svg)](https://github.com/ml-dev-world/pytorch-fundamentals/pulls)
 &nbsp;&nbsp;&nbsp;
 [![GitHub issues](https://img.shields.io/github/issues/ml-dev-world/pytorch-fundamentals.svg)](https://github.com/ml-dev-world/pytorch-fundamentals/issues)
 &nbsp;&nbsp;&nbsp;
 [![GitHub contributors](https://img.shields.io/github/contributors/ml-dev-world/pytorch-fundamentals.svg)](https://github.com/ml-dev-world/pytorch-fundamentals/graphs/contributors)
-&nbsp;&nbsp;&nbsp;
 
 </div>
 
