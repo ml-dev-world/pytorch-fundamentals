@@ -22,7 +22,7 @@ This repository is heavily inspired from the amazing [Paperspace - PyTorch 101 T
 8. [Numerical stability in PyTorch](./08_Numerical_stability_with_PyTorch.ipynb)
 9. [Faster training with automatic mixed precision](./09_Faster_training_with_mixed_precision.ipynb)
 10. [Building Neural Network with PyTorch](./10_Building_Neural_Network_with_Pytorch.ipynb)
-11. [PyTorch Advanced Usage](./11_Pytorch_Advanced_Usage.ipbynb)
+11. [PyTorch Advanced Usage](./11_Pytorch_Advanced_Usage.ipynb)
 
 ## Getting Started
 
