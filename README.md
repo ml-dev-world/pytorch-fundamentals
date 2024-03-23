@@ -43,6 +43,7 @@ This repository draws inspiration from the incredible [Paperspace - PyTorch 101 
 9. [Faster Training with Automatic Mixed Precision](./09_Faster_training_with_mixed_precision.ipynb)
 10. [Building Neural Networks with PyTorch](./10_Building_Neural_Network_with_Pytorch.ipynb)
 11. [Advanced Usage of PyTorch](./11_Pytorch_Advanced_Usage.ipynb)
+12. [Memory Management and Multi GPU Usage](./12_Memory_management_and_Multi_GPU_Usage.ipynb)
 
 ## Getting Started
 
