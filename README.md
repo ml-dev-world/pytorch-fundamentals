@@ -1,21 +1,5 @@
 # PyTorch Fundamentals
 
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/ml-dev-world/pytorch-fundamentals.svg?style=social)](https://github.com/ml-dev-world/pytorch-fundamentals/stargazers)
-&nbsp;&nbsp;&nbsp;
-[![GitHub forks](https://img.shields.io/github/forks/ml-dev-world/pytorch-fundamentals.svg?style=social)](https://github.com/ml-dev-world/pytorch-fundamentals/network/members)
-&nbsp;&nbsp;&nbsp;
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/ml-dev-world/pytorch-fundamentals.svg)](https://github.com/ml-dev-world/pytorch-fundamentals/pulls)
-&nbsp;&nbsp;&nbsp;
-[![GitHub issues](https://img.shields.io/github/issues/ml-dev-world/pytorch-fundamentals.svg)](https://github.com/ml-dev-world/pytorch-fundamentals/issues)
-&nbsp;&nbsp;&nbsp;
-[![GitHub contributors](https://img.shields.io/github/contributors/ml-dev-world/pytorch-fundamentals.svg)](https://github.com/ml-dev-world/pytorch-fundamentals/graphs/contributors)
-
-</div>
-
-
-
 ![Deep Learning](https://images.ctfassets.net/rc8q7tcpu9y3/4N9rb37CEIfSE6MQCh7tLx/393b411ead140cdf9d9255dee2aa5a97/Facebook-PyTorch-Conference-Experience-Design-Social.jpg?w=1200&h=630&fit=fill&fm=jpg&q=90)
 
 Welcome to PyTorch Fundamentals! This repository is designed to help you master PyTorch from beginner to advanced levels with practical examples and tutorials. Whether you're just starting your deep learning journey or looking to enhance your skills, you'll find concise explanations and hands-on exercises to guide you through the world of PyTorch.
